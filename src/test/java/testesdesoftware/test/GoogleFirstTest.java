@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class GoogleFirstTest {
     private WebDriver driver;
     private String URL_BASE = "https://www.google.com";
-    private String PATH_DRIVE = "src/test/resources/chromedriver.exe";
+    private String PATH_DRIVE = "src/test/resources/chromedriver120.0.6099.exe";
 
     private void iniciar() {
         System.setProperty("webdriver.chrome.driver", PATH_DRIVE);

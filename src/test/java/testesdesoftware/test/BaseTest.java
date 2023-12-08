@@ -9,7 +9,7 @@ public class BaseTest {
 
     //	private static final String URL_BASE = "https://www.google.com";
     private static final String URL_BASE = "file:///C:/Users/sopi_/Downloads/material_ultima_aula_teste_01DEZ23/sistema/sistema/login.html";
-    private static final String PATH_DRIVE = "src/test/resources/chromedriver.exe";
+    private static final String PATH_DRIVE = "src/test/resources/chromedriver120.0.6099.exe";
     protected static WebDriver driver;
 
     @BeforeClass
