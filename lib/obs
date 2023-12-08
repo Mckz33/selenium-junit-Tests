@@ -1,0 +1,1 @@
+não foi necessario o uso do hamcrest-core-1.3 e o junit-4.12 neste projeto, as dependencias no pom foram suficiente
